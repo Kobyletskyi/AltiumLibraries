@@ -1,0 +1,42 @@
+PCAD Importer Log
+Project : LM393M.LibPkg
+
+Section : C:\Users\www\Google Диск\Projects\Altium\Libraries\LM393\LM393M.lia
+    Section : PCB Library - LM393M.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token LM393M On Line 120
+            Warning - 1 : Skipping Token attachedSymbol On Line 220
+        EndSection
+
+        Section : Import Messages
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - LM393M.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 60
+            Warning - 1 : Skipping Token layerContents On Line 70
+            Warning - 1 : Skipping Token layerContents On Line 112
+        EndSection
+
+        Section : Generating SCH Library - LM393M.SchLib
+        EndSection
+    EndSection
+EndSection

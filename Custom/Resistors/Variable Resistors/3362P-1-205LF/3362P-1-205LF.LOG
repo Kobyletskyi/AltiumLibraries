@@ -1,0 +1,20 @@
+PCAD Importer Log
+Project : 3362P-1-205LF.LibPkg
+
+Section : D:\GoogleDrive\Projects\Altium\Libraries\Custom\Resistors\Variable Resistors\3362P-1-205LF\3362P-1-205LF.lia
+    Section : PCB Library - 3362P-1-205LF.PcbLib
+        Section : Load Messages
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 3362P-1-205LF.SchLib
+        Section : Parsing Messages
+        EndSection
+
+        Section : Generating SCH Library - 3362P-1-205LF.SchLib
+        EndSection
+    EndSection
+EndSection

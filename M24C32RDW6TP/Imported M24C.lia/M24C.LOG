@@ -1,0 +1,51 @@
+PCAD Importer Log
+Project : M24C.LibPkg
+
+Section : C:\Users\www\Google Диск\Projects\Altium\Libraries\M24C32RDW6TP\M24C.lia
+    Section : PCB Library - M24C.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token poly On Line 73
+            Warning - 1 : Skipping Token poly On Line 79
+            Warning - 1 : Skipping Token poly On Line 85
+            Warning - 1 : Skipping Token poly On Line 91
+            Warning - 1 : Skipping Token poly On Line 97
+            Warning - 1 : Skipping Token poly On Line 103
+            Warning - 1 : Skipping Token poly On Line 109
+            Warning - 1 : Skipping Token poly On Line 115
+            Warning - 1 : Skipping Token poly On Line 127
+            Warning - 1 : Skipping Token M24C01 On Line 136
+            Warning - 1 : Skipping Token attachedSymbol On Line 234
+        EndSection
+
+        Section : Import Messages
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - M24C.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 60
+            Warning - 1 : Skipping Token layerContents On Line 70
+            Warning - 1 : Skipping Token layerContents On Line 122
+        EndSection
+
+        Section : Generating SCH Library - M24C.SchLib
+        EndSection
+    EndSection
+EndSection

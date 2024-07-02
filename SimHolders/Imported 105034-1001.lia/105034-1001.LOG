@@ -1,0 +1,68 @@
+PCAD Importer Log
+Project : 105034-1001.LibPkg
+
+Section : C:\Users\www\Desktop\GoogleDrive\Projects\Altium\Libraries\SimHolders\105034-1001.lia
+    Section : PCB Library - 105034-1001.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token poly On Line 133
+            Warning - 1 : Skipping Token poly On Line 139
+            Warning - 1 : Skipping Token poly On Line 145
+            Warning - 1 : Skipping Token poly On Line 151
+            Warning - 1 : Skipping Token poly On Line 157
+            Warning - 1 : Skipping Token poly On Line 163
+            Warning - 1 : Skipping Token poly On Line 169
+            Warning - 1 : Skipping Token poly On Line 175
+            Warning - 1 : Skipping Token poly On Line 181
+            Warning - 1 : Skipping Token poly On Line 187
+            Warning - 1 : Skipping Token poly On Line 193
+            Warning - 1 : Skipping Token poly On Line 199
+            Warning - 1 : Skipping Token poly On Line 205
+            Warning - 1 : Skipping Token poly On Line 211
+            Warning - 1 : Skipping Token poly On Line 217
+            Warning - 1 : Skipping Token poly On Line 223
+            Warning - 1 : Skipping Token poly On Line 229
+            Warning - 1 : Skipping Token poly On Line 235
+            Warning - 1 : Skipping Token 105034-1001 On Line 269
+            Warning - 1 : Skipping Token attachedSymbol On Line 359
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [MOLEX_105034-1001][Primary] associated with PCAD Component [105034-1001] has been renamed to PCB FootPrint [MOLEX_105034-1001_105034-1001(Primary)].
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+            Warning : Rectangle solder shape converted to solid region
+        EndSection
+    EndSection
+
+    Section : SCH Library - 105034-1001.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 45
+            Warning - 1 : Skipping Token padStyleDef On Line 56
+            Warning - 1 : Skipping Token multiLayer On Line 106
+            Warning - 1 : Skipping Token layerContents On Line 119
+            Warning - 1 : Skipping Token layerContents On Line 132
+        EndSection
+
+        Section : Generating SCH Library - 105034-1001.SchLib
+            Warning - 0 : PCAD Pattern Graphics [MOLEX_105034-1001][Primary] associated with PCAD Component [105034-1001] has been renamed to PCB FootPrint [MOLEX_105034-1001_105034-1001(Primary)].
+        EndSection
+    EndSection
+EndSection

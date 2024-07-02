@@ -1,0 +1,35 @@
+PCAD Importer Log
+Project : BK-18650-PC2.LibPkg
+
+Section : C:\Users\www\Desktop\GoogleDrive\Projects\Altium\Libraries\Battery\18650\BK-18650-PC2.lia
+    Section : PCB Library - BK-18650-PC2.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1 On Line 96
+            Warning - 1 : Skipping Token 2 On Line 99
+            Warning - 1 : Skipping Token isVisible On Line 110
+            Warning - 1 : Skipping Token isVisible On Line 111
+            Warning - 1 : Skipping Token isVisible On Line 112
+            Warning - 1 : Skipping Token isVisible On Line 113
+            Warning - 1 : Skipping Token 2CELLBATT On Line 121
+            Warning - 1 : Skipping Token attachedSymbol On Line 185
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [18650-PC4][Primary] associated with PCAD Component [BK-18650-PC4] has been renamed to PCB FootPrint [18650-PC4_BK-18650-PC4(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - BK-18650-PC2.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 115
+        EndSection
+
+        Section : Generating SCH Library - BK-18650-PC2.SchLib
+            Warning - 0 : PCAD Pattern Graphics [18650-PC4][Primary] associated with PCAD Component [BK-18650-PC4] has been renamed to PCB FootPrint [18650-PC4_BK-18650-PC4(Primary)].
+        EndSection
+    EndSection
+EndSection

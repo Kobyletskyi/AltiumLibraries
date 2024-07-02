@@ -1,0 +1,20 @@
+PCAD Importer Log
+Project : MS621FE.LibPkg
+
+Section : C:\Users\www\Desktop\GoogleDrive\Projects\Altium\Libraries\Backup Batteries\MS621FE-FL11E\MS621FE.lia
+    Section : PCB Library - MS621FE.PcbLib
+        Section : Load Messages
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MS621FE.SchLib
+        Section : Parsing Messages
+        EndSection
+
+        Section : Generating SCH Library - MS621FE.SchLib
+        EndSection
+    EndSection
+EndSection
